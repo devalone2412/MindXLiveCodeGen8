@@ -1,0 +1,17 @@
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\bin\Debug\net7.0\MindXLiveCodeGen8.Service.deps.json
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\bin\Debug\net7.0\MindXLiveCodeGen8.Service.dll
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\bin\Debug\net7.0\MindXLiveCodeGen8.Service.pdb
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\obj\Debug\net7.0\MindXLiveCodeGen8.Service.csproj.AssemblyReference.cache
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\obj\Debug\net7.0\MindXLiveCodeGen8.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\obj\Debug\net7.0\MindXLiveCodeGen8.Service.AssemblyInfoInputs.cache
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\obj\Debug\net7.0\MindXLiveCodeGen8.Service.AssemblyInfo.cs
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\obj\Debug\net7.0\MindXLiveCodeGen8.Service.csproj.CoreCompileInputs.cache
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\obj\Debug\net7.0\MindXLiveCodeGen8.Service.dll
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\obj\Debug\net7.0\refint\MindXLiveCodeGen8.Service.dll
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\obj\Debug\net7.0\MindXLiveCodeGen8.Service.pdb
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\obj\Debug\net7.0\ref\MindXLiveCodeGen8.Service.dll
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\bin\Debug\net7.0\MindXLiveCodeGen8.Domain.dll
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\bin\Debug\net7.0\MindXLiveCodeGen8.Shared.dll
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\bin\Debug\net7.0\MindXLiveCodeGen8.Domain.pdb
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\bin\Debug\net7.0\MindXLiveCodeGen8.Shared.pdb
+D:\projects\MindXLiveCodeGen8\MindXLiveCodeGen8.Service\obj\Debug\net7.0\MindXLiveCodeGen8.Service.csproj.CopyComplete
